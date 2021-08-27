@@ -1,6 +1,6 @@
 # Number to LCD
 
-![Banner](img/number.png)
+![image](/img/number.png)
 
 # Notas.
 
