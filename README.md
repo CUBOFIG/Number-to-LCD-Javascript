@@ -1,6 +1,6 @@
 # Number to LCD
 
-![image](/img/number.png)
+![image](./img/number.jpg)
 
 # Notas.
 
